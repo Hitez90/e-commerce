@@ -7,7 +7,7 @@
 5. Выполнен когортный анализ пользователей. В период с января по декабрь выявлена когорту с самым высоким retention на 3-й месяц.
 6. Построена RFM-сегментация пользователей.
 -----
-![Image alt](https://github.com/e-commerce/edit/main/README.md
+![Image alt](https://github.com/e-commerce/blob/main/cohort.PNG
 
-![image](https://github.com/Hitez90/e-commerce/assets/54677705/52c1ee1d-6f42-4760-a024-6dbf3fb726ac)
+![image](https://github.com/Hitez90/e-commerce/blob/main/rfm.png
 
